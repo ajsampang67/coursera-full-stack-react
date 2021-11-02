@@ -11,7 +11,9 @@
   "author": "Aj Sampang",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.1.3",
     "install": "^0.13.0",
+    "jquery": "^3.6.0",
     "nvm": "^0.0.4"
   },
   "devDependencies": {
