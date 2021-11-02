@@ -1,0 +1,20 @@
+{
+  "name": "coursera-full-stack-react",
+  "version": "1.0.0",
+  "description": "test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Aj Sampang",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "nvm": "^0.0.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
